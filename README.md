@@ -1,2 +1,2 @@
 # sayuyu
-cantik imut berbudi luhur
+praktik manipulation string compro 2
